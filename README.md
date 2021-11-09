@@ -1,2 +1,2 @@
-# adam_test
+# adam
 test
